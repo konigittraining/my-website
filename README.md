@@ -2,6 +2,4 @@
 
 This is an update to readme for website
 
-Edid on update-readme branch
-
-Update locally
+Updates made on master on GitHub before rebase 
